@@ -25,6 +25,6 @@ NOTE: This file is 640x480 resolution. It should scale fine if you edit the Imag
 
 -----------
 
-CREDITS: Reddit users u/_M4TTH3W_ for originally coming up with the idea and u/_manster_ for the heads-up on the font used.
+CREDITS: Reddit users <a href="https://old.reddit.com/u/_M4TTH3W_">u/_M4TTH3W_</a> for originally coming up with the idea and <a href="https://old.reddit.com/u/_manster_">u/_manster_</a> for the heads-up on the font used.
 
 ENJOY!

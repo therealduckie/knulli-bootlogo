@@ -18,4 +18,6 @@ Save it to the root of your knulli/batocera boot drive.
 
 NOTE: boot drive may differ, depending on your install type. For a single SD card, it should be placed in the /boot/ folder. On a 2 SD card install, the root of your batocera drive is fine. If there's any doubt, you will already find a file by that name in the folder. Just overwrite it.
 
+CREDIT: Reddit users u/_M4TTH3W_ for originally coming up with the idea and u/_manster_ for the heads-up on the font used.
+
 ENJOY!

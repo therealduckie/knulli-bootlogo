@@ -21,7 +21,7 @@ NOTE: boot drive may differ, depending on your install type. For a single SD car
 
 -----------
 
-NOTE: This file is 640x480 resolution. It should scale fine if you edit the Image Size (not Canva Size). While scaling is not an issue for 3x4 devices, wider screens may see distortion. Here is <a href="https://github.com/therealduckie/knulli-bootlogo/blob/main/bootlogo1080.png">AN EXAMPLE</a> of the file in 1080p, looking a bit stretched. I may consider an update to wide screen devices, if there's a call for it.
+NOTE: This file is 640x480 resolution. It should scale fine if you edit the Image Size (not Canva Size). While scaling is not an issue for 3x4 ratio devices/screens, wider screens may see distortion. Here is <a href="https://github.com/therealduckie/knulli-bootlogo/blob/main/bootlogo1080.png">AN EXAMPLE</a> of the file in 1080p, looking a bit stretched. I may consider an update to wide screen devices, if there's a call for it.
 
 -----------
 

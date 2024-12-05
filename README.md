@@ -1,6 +1,6 @@
 # knulli-bootlogo
 
-<img src="https://github.com/therealduckie/knulli-bootlogo/blob/main/bootlogo.bmp">
+<img src="https://github.com/therealduckie/knulli-bootlogo/blob/main/bootlogo.png">
 
 A bootlogo.bmp replacement for Knulli/Batocera that emulates a PC Bios boot screen in Photoshop format. Verified working for GIMP.
 
